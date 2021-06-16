@@ -1,4 +1,4 @@
-package com.jkuhail.mvvmsample
+package com.jkuhail.mvvmsample.model
 
 data class User(
     val avatar: String,

@@ -1,5 +1,6 @@
 package com.jkuhail.mvvmsample
 
+import com.jkuhail.mvvmsample.model.UsersResponse
 import okhttp3.OkHttpClient
 import retrofit2.Response
 import retrofit2.Retrofit
